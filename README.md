@@ -30,9 +30,9 @@ Follow the below steps to execute this project,
   - Execute test.py file.
   - Install Required modules. 
 
-Things to do,
+Points to remember,
   - Change all the paths in code as per your directory.
-  - It had GUI created with Tinkter.
+  - It has GUI created with Tinkter.
   - Store your audio recorded for training in training_set and testing audio in testing_set Folder.
   - training_set_addition.txt use this file to append trained files and testing_set_addition.txt for appending test files.
   - Passwords get stored in password.txt, images while training the model are stored in TrainingImage folder
