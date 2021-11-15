@@ -1,5 +1,8 @@
 # Attendance using Speaker Identification and Facial Recognition
 
+## SAMPLE IMAGES
+
+
 ## ABOUT
 A system that marks attendance is software for students studying in different institutes which can also be used in companies ,the knowledge is stored in Admin device who takes attendance, the scholar user can give attendance in their respective classes before entering the category. 
 This system will also be beneficial in calculating eligibility criteria of attendance of a student. 
@@ -21,5 +24,5 @@ Things to do,
   - Passwords get stored in password.txt, images while training the model are stored in TrainingImage folder
   - The data after registering is stored in StudentDetails.csv
 
-## DEMO
+
  
