@@ -1,7 +1,17 @@
 # Attendance using Speaker Identification and Facial Recognition
 
 ## SAMPLE IMAGES
+Home Page
 ![alt text](Misc/HomePageUI.jpg)
+
+Face Recognition Page
+![alt text](Misc/FaceRecognitionUI.jpg)
+
+Speaker Identification Page
+![alt text](Misc/SpeakerIdentificationUI.jpg)
+
+Output.csv file
+
 
 ## ABOUT
 A system that marks attendance is software for students studying in different institutes which can also be used in companies ,the knowledge is stored in Admin device who takes attendance, the scholar user can give attendance in their respective classes before entering the category. 
