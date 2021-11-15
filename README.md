@@ -1,13 +1,13 @@
-## Attendance using Speaker Identification and Facial Recognition
+# Attendance using Speaker Identification and Facial Recognition
 
-# About
+## ABOUT
 A system that marks attendance is software for students studying in different institutes which can also be used in companies ,the knowledge is stored in Admin device who takes attendance, the scholar user can give attendance in their respective classes before entering the category. 
 This system will also be beneficial in calculating eligibility criteria of attendance of a student. 
 The aim of developing such a system is to computerize the tradition way of taking attendance. 
 This software uses voice and face biometrics which gives authentication of attendance using very small data size and generate the report at the top of the session with the help of automated system. 
 The system is developed as a Python application, and it will work for a any teacher or faculty. 
 
-
+## INSTRUCTIONS
 Follow the below steps to execute this project,
   - Download the repository.
   - Execute test.py file.
@@ -21,4 +21,5 @@ Things to do,
   - Passwords get stored in password.txt, images while training the model are stored in TrainingImage folder
   - The data after registering is stored in StudentDetails.csv
 
+## DEMO
  
